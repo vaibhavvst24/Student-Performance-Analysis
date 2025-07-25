@@ -9,11 +9,16 @@ This project explores how student lifestyle habits and external factors influenc
 student-performance-analysis/
 │
 ├── data/
+
 │ └── student_habits_performance.csv
+
 │
 ├── notebooks/
+
 │ └── analysis.ipynb
+
 │
+
 ├── README.md
 └── requirements.txt
 
