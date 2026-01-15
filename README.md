@@ -81,8 +81,6 @@ student-performance-analysis/
 
 ---
 
-## 📦 Setup Instructions
+# Power BI Dashboard
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/student-performance-analysis.git
+![Student-Performance-Analysis](images/SPABI.png)
