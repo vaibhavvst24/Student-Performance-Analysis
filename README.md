@@ -83,4 +83,4 @@ student-performance-analysis/
 
 # Power BI Dashboard
 
-![Student Performance Analysis](images/SPA BI.png)
+![Student-Performance-Analysis](images/SPABI.png)
