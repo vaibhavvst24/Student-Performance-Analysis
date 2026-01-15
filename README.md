@@ -75,3 +75,17 @@ requirements.txt
 # Power BI Dashboard
 
 ![Student-Performance-Analysis](images/SPABI.png)
+
+---
+![Student-Performance-Analysis](images/spa2.png)
+
+---
+![Student-Performance-Analysis](images/spa3.png)
+
+---
+![Student-Performance-Analysis](images/spa4.png)
+
+---
+![Student-Performance-Analysis](images/spa5.png)
+
+---
